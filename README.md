@@ -19,7 +19,7 @@ It showcases a professional profile including skills, experience, projects, and 
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **Tailwind CSS**
