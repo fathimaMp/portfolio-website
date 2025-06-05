@@ -17,7 +17,7 @@ It showcases a professional profile including skills, experience, projects, and 
   - Work Experience Timeline
   - Contact Details and Social Links
 
----
+
 
 ## Technologies Used
 
