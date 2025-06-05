@@ -1,4 +1,5 @@
 # Personal Portfolio Website (static)
+-------------------------------------
 
 This is a **responsive portfolio website** built using **HTML, Tailwind CSS, and custom styles**, created for **study and learning purposes**. 
 It showcases a professional profile including skills, experience, projects, and contact information.
@@ -6,6 +7,7 @@ It showcases a professional profile including skills, experience, projects, and 
 ---
 
 ## Features
+-----------
 
 - Responsive design for all screen sizes
 - Tailwind CSS integration
