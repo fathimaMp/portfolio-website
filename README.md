@@ -25,7 +25,7 @@ It showcases a professional profile including skills, experience, projects, and 
 - **Tailwind CSS**
 - **Google Fonts**
 - **Custom CSS** (`css/style.css`)
-- **Images** for logos, icons, and avatars
+- **Images** for logos, icons, and avatars.
 
 ---
 
